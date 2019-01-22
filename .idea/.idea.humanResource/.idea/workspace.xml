@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5df08b32-4fa7-46f9-b1c7-cbaeded636eb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="signIn.aspx.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <marker date="1543045892339" expanded="false" signature="6:172" ph="..." />
+                <marker date="1543045892339" expanded="true" signature="206:608" ph="{...}" />
+                <marker date="1543045892339" expanded="true" signature="261:606" ph="{...}" />
+                <marker date="1543045892339" expanded="true" signature="328:350" ph="{...}" />
+                <marker date="1543045892339" expanded="true" signature="416:500" ph="{...}" />
+                <marker date="1543045892339" expanded="true" signature="566:600" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validator.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/validator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1543005433856" expanded="true" signature="51:1934" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="62:334" ph="/* instanciating class hashcheck allows us to use basic &amp; secure hash check. ... */" />
+                <marker date="1543005433856" expanded="true" signature="365:1926" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="518:855" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="681:750" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="771:841" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1027:1916" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1211:1519" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1313:1394" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1419:1501" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1559:1888" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1682:1763" ph="{...}" />
+                <marker date="1543005433856" expanded="true" signature="1788:1870" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logger.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/SESSION/logger.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+              <folding>
+                <marker date="1543047043800" expanded="true" signature="6:75" ph="..." />
+                <marker date="1543047043800" expanded="true" signature="3414:3416" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coreX.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/CORE/coreX.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+              <folding>
+                <marker date="1543044159774" expanded="true" signature="6:128" ph="..." />
+                <marker date="1543044159774" expanded="true" signature="164:6111" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="166:227" ph="/// Summary description for DB ... " />
+                <marker date="1543044159774" expanded="true" signature="250:5688" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="279:404" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="329:394" ph="/* TODO: Add constructor logic here ... */" />
+                <marker date="1543044159774" expanded="true" signature="619:3346" ph="SQL Specific" />
+                <marker date="1543044159774" expanded="true" signature="731:1202" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="878:974" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1008:1126" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1154:1195" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1207:2008" ph="update************************************************************************" />
+                <marker date="1543044159774" expanded="true" signature="1372:1993" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1528:1695" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1741:1889" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="1923:1982" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="2073:2171" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="2240:2441" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="2506:2702" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="2809:3331" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="3041:3158" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="3352:3605" ph="Connection Oriented Functions" />
+                <marker date="1543044159774" expanded="true" signature="3430:3509" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="3543:3590" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="3611:5500" ph="DataReader to DataSet" />
+                <marker date="1543044159774" expanded="true" signature="3709:5484" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="3965:5003" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="4103:4580" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="4723:4989" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="5020:5407" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="5572:5686" ph="{...}" />
+                <marker date="1543044159774" expanded="false" signature="5693:6109" ph="Name Value Pair and List..." />
+                <marker date="1543044159774" expanded="true" signature="5781:5786" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="5814:6098" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="5890:5952" ph="{...}" />
+                <marker date="1543044159774" expanded="true" signature="6021:6096" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signIn.aspx.designer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1543044564455" expanded="true" signature="0:357" ph="/* ------------------------------------------------------------------------------ ... */" />
+                <marker date="1543044564455" expanded="true" signature="392:2340" ph="{...}" />
+                <marker date="1543044564455" expanded="true" signature="436:2338" ph="{...}" />
+                <marker date="1543044564455" expanded="true" signature="455:682" ph="/// form1 control. ... " />
+                <marker date="1543044564455" expanded="true" signature="769:1314" ph="/// TextBox1 control. ... " />
+                <marker date="1543044564455" expanded="true" signature="1402:1632" ph="/// TextBox2 control. ... " />
+                <marker date="1543044564455" expanded="true" signature="1720:1949" ph="/// Button2 control. ... " />
+                <marker date="1543044564455" expanded="true" signature="2035:2264" ph="/// Button1 control. ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signIn.aspx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1543044564329" expanded="true" signature="136:2013" ph="&lt;html.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="180:281" ph="&lt;head.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="282:2005" ph="&lt;body.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="293:1997" ph="&lt;form.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="329:1985" ph="&lt;div.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="365:1965" ph="&lt;div.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="410:674" ph="&lt;header.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="448:674" ph="&lt;div.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="580:674" ph="&lt;div.../&gt;" />
+                <marker date="1543044564329" expanded="true" signature="1785:1945" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/humanResource/APPCODE/BLL/department/DepartmentQuery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/validator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://H:/NOV11 OLDER V/NOV10/humanResource/humanResource/LOGIN/UI/sign_in.aspx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/CORE/coreX.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/SESSION/logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/humanResource/LOGIN/CORE/coreX.cs" />
+        <option value="$PROJECT_DIR$/humanResource/LOGIN/SLAYER/SESSION/logger.cs" />
+        <option value="$PROJECT_DIR$/humanResource/APPCODE/BLL/department/DepartmentQuery.cs" />
+        <option value="$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="259" />
+    <option name="y" value="-19" />
+    <option name="width" value="878" />
+    <option name="height" value="745" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="APPCODE" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="APPCODE" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BLL" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="APPCODE" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BLL" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="department" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="APPCODE" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BLL" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="employee" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LOGIN" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LOGIN" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="CORE" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LOGIN" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SLAYER" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="humanResource (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="humanResource" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LOGIN" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SLAYER" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="SESSION" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/NOV11 OLDER V/NOV10/humanResource/humanResource/LOGIN/UI/sign_in.aspx.designer.cs" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="C:/Program Files/IIS Express/iisexpress.exe" />
+      <option name="PROGRAM_PARAMETERS" value="/config:$PROJECT_DIR$/.idea/config/applicationhost.config /site:humanResource /apppool:Clr4IntegratedAppPool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/humanResource" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/humanResource/humanResource.csproj" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <browser url="http://localhost:53576/" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df08b32-4fa7-46f9-b1c7-cbaeded636eb" name="Default" comment="" />
+      <created>1542837338561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542837338561</updated>
+      <workItem from="1542837365884" duration="314000" />
+      <workItem from="1542974108820" duration="479000" />
+      <workItem from="1542993552737" duration="431000" />
+      <workItem from="1543004896645" duration="570000" />
+      <workItem from="1543042074908" duration="3505000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5299000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15739386" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32917318" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <marker date="1543042275982" expanded="true" signature="97:1773" ph="&lt;html.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="243:1765" ph="&lt;body.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="254:1757" ph="&lt;form.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="290:1745" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="326:1725" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="695:1705" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="736:1436" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="811:1378" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="1139:1347" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/NOV11 OLDER V/NOV10/humanResource/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543042276102" expanded="true" signature="97:1757" ph="&lt;html.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="243:1749" ph="&lt;body.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="254:1741" ph="&lt;form.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="290:1729" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="326:1709" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="695:1689" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="736:1420" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="811:1362" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="1123:1331" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/APPCODE/BLL/department/DepartmentQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <marker date="1543044468501" expanded="true" signature="6:51" ph="..." />
+            <marker date="1543044468501" expanded="true" signature="99:6451" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="142:3318" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="322:1152" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="1246:1444" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="1454:2428" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="1505:1979" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="1571:1938" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="2029:2409" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="2437:3312" ph="updatequery" />
+            <marker date="1543044468501" expanded="true" signature="2574:3293" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="3353:6449" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="3439:4295" ph="InsertQuery" />
+            <marker date="1543044468501" expanded="true" signature="3545:4275" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="4345:4686" ph="fetchQuery" />
+            <marker date="1543044468501" expanded="true" signature="4422:4666" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="4704:5765" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="4757:5293" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="4825:5251" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="5354:5746" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="5798:6443" ph="updateQuery" />
+            <marker date="1543044468501" expanded="true" signature="5911:6424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543044564455" expanded="true" signature="0:357" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1543044564455" expanded="true" signature="392:2340" ph="{...}" />
+            <marker date="1543044564455" expanded="true" signature="436:2338" ph="{...}" />
+            <marker date="1543044564455" expanded="true" signature="455:682" ph="/// form1 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="769:1314" ph="/// TextBox1 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="1402:1632" ph="/// TextBox2 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="1720:1949" ph="/// Button2 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="2035:2264" ph="/// Button1 control. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543044564329" expanded="true" signature="136:2013" ph="&lt;html.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="180:281" ph="&lt;head.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="282:2005" ph="&lt;body.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="293:1997" ph="&lt;form.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="329:1985" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="365:1965" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="410:674" ph="&lt;header.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="448:674" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="580:674" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="1785:1945" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543045892339" expanded="false" signature="6:172" ph="..." />
+            <marker date="1543045892339" expanded="true" signature="206:608" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="261:606" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="328:350" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="416:500" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="566:600" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <marker date="1543042275982" expanded="true" signature="97:1773" ph="&lt;html.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="243:1765" ph="&lt;body.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="254:1757" ph="&lt;form.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="290:1745" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="326:1725" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="695:1705" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="736:1436" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="811:1378" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="1139:1347" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx.designer.cs" />
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx.cs" />
+    <entry file="file://H:/NOV11 OLDER V/NOV10/humanResource/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543042276102" expanded="true" signature="97:1757" ph="&lt;html.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="243:1749" ph="&lt;body.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="254:1741" ph="&lt;form.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="290:1729" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="326:1709" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="695:1689" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="736:1420" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="811:1362" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="1123:1331" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx.designer.cs" />
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx.cs" />
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543044564455" expanded="true" signature="0:357" ph="/* ------------------------------------------------------------------------------ ... */" />
+            <marker date="1543044564455" expanded="true" signature="392:2340" ph="{...}" />
+            <marker date="1543044564455" expanded="true" signature="436:2338" ph="{...}" />
+            <marker date="1543044564455" expanded="true" signature="455:682" ph="/// form1 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="769:1314" ph="/// TextBox1 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="1402:1632" ph="/// TextBox2 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="1720:1949" ph="/// Button2 control. ... " />
+            <marker date="1543044564455" expanded="true" signature="2035:2264" ph="/// Button1 control. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543044564329" expanded="true" signature="136:2013" ph="&lt;html.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="180:281" ph="&lt;head.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="282:2005" ph="&lt;body.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="293:1997" ph="&lt;form.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="329:1985" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="365:1965" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="410:674" ph="&lt;header.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="448:674" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="580:674" ph="&lt;div.../&gt;" />
+            <marker date="1543044564329" expanded="true" signature="1785:1945" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/CORE/coreX.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="57" column="13" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <marker date="1543044159774" expanded="true" signature="6:128" ph="..." />
+            <marker date="1543044159774" expanded="true" signature="164:6111" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="166:227" ph="/// Summary description for DB ... " />
+            <marker date="1543044159774" expanded="true" signature="250:5688" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="279:404" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="329:394" ph="/* TODO: Add constructor logic here ... */" />
+            <marker date="1543044159774" expanded="true" signature="619:3346" ph="SQL Specific" />
+            <marker date="1543044159774" expanded="true" signature="731:1202" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="878:974" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1008:1126" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1154:1195" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1207:2008" ph="update************************************************************************" />
+            <marker date="1543044159774" expanded="true" signature="1372:1993" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1528:1695" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1741:1889" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="1923:1982" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="2073:2171" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="2240:2441" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="2506:2702" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="2809:3331" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="3041:3158" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="3352:3605" ph="Connection Oriented Functions" />
+            <marker date="1543044159774" expanded="true" signature="3430:3509" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="3543:3590" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="3611:5500" ph="DataReader to DataSet" />
+            <marker date="1543044159774" expanded="true" signature="3709:5484" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="3965:5003" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="4103:4580" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="4723:4989" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="5020:5407" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="5572:5686" ph="{...}" />
+            <marker date="1543044159774" expanded="false" signature="5693:6109" ph="Name Value Pair and List..." />
+            <marker date="1543044159774" expanded="true" signature="5781:5786" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="5814:6098" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="5890:5952" ph="{...}" />
+            <marker date="1543044159774" expanded="true" signature="6021:6096" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/SESSION/logger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="43" lean-forward="false" selection-start-line="0" selection-start-column="43" selection-end-line="0" selection-end-column="43" />
+          <folding>
+            <marker date="1543047043800" expanded="true" signature="6:75" ph="..." />
+            <marker date="1543047043800" expanded="true" signature="3414:3416" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/APPCODE/BLL/department/DepartmentQuery.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="23" lean-forward="false" selection-start-line="127" selection-start-column="23" selection-end-line="127" selection-end-column="23" />
+          <folding>
+            <marker date="1543044468501" expanded="true" signature="6:51" ph="..." />
+            <marker date="1543044468501" expanded="true" signature="99:6451" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="142:3318" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="322:1152" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="1246:1444" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="1454:2428" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="1505:1979" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="1571:1938" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="2029:2409" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="2437:3312" ph="updatequery" />
+            <marker date="1543044468501" expanded="true" signature="2574:3293" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="3353:6449" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="3439:4295" ph="InsertQuery" />
+            <marker date="1543044468501" expanded="true" signature="3545:4275" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="4345:4686" ph="fetchQuery" />
+            <marker date="1543044468501" expanded="true" signature="4422:4666" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="4704:5765" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="4757:5293" ph="deleteQuery" />
+            <marker date="1543044468501" expanded="true" signature="4825:5251" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="5354:5746" ph="{...}" />
+            <marker date="1543044468501" expanded="true" signature="5798:6443" ph="updateQuery" />
+            <marker date="1543044468501" expanded="true" signature="5911:6424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="28" column="47" lean-forward="false" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
+          <folding>
+            <marker date="1543042275982" expanded="true" signature="97:1773" ph="&lt;html.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="243:1765" ph="&lt;body.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="254:1757" ph="&lt;form.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="290:1745" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="326:1725" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="695:1705" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="736:1436" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="811:1378" ph="&lt;div.../&gt;" />
+            <marker date="1543042275982" expanded="true" signature="1139:1347" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://H:/NOV11 OLDER V/NOV10/humanResource/humanResource/LOGIN/UI/sign_in.aspx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543042276102" expanded="true" signature="97:1757" ph="&lt;html.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="141:242" ph="&lt;head.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="243:1749" ph="&lt;body.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="254:1741" ph="&lt;form.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="290:1729" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="326:1709" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="371:686" ph="&lt;header.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="409:664" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="541:641" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="695:1689" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="736:1420" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="759:798" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="811:1362" ph="&lt;div.../&gt;" />
+            <marker date="1543042276102" expanded="true" signature="1123:1331" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/UI/signIn.aspx.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1543045892339" expanded="false" signature="6:172" ph="..." />
+            <marker date="1543045892339" expanded="true" signature="206:608" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="261:606" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="328:350" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="416:500" ph="{...}" />
+            <marker date="1543045892339" expanded="true" signature="566:600" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/humanResource/LOGIN/SLAYER/validator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1543005433856" expanded="true" signature="51:1934" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="62:334" ph="/* instanciating class hashcheck allows us to use basic &amp; secure hash check. ... */" />
+            <marker date="1543005433856" expanded="true" signature="365:1926" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="518:855" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="681:750" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="771:841" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1027:1916" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1211:1519" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1313:1394" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1419:1501" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1559:1888" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1682:1763" ph="{...}" />
+            <marker date="1543005433856" expanded="true" signature="1788:1870" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
